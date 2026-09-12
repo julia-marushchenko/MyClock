@@ -43,6 +43,7 @@ public class Main {
             System.out.println();
 
             // The second's hand progress.
+            Thread.sleep(1000);
             seconds = seconds + 1;
 
             // The other hand's progress when necessary.
